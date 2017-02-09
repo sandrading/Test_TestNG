@@ -2,7 +2,7 @@
 <classpath>
   <classpathentry kind="src" path="src" including="**/*.java"/>
   <classpathentry kind="output" path="target/classes"/>
-  <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+  <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
   <classpathentry kind="var" path="M2_REPO/org/seleniumhq/selenium/selenium-java/2.24.1/selenium-java-2.24.1.jar" sourcepath="M2_REPO/org/seleniumhq/selenium/selenium-java/2.24.1/selenium-java-2.24.1-sources.jar"/>
   <classpathentry kind="var" path="M2_REPO/org/seleniumhq/selenium/selenium-android-driver/2.24.1/selenium-android-driver-2.24.1.jar" sourcepath="M2_REPO/org/seleniumhq/selenium/selenium-android-driver/2.24.1/selenium-android-driver-2.24.1-sources.jar"/>
   <classpathentry kind="var" path="M2_REPO/org/seleniumhq/selenium/selenium-remote-driver/2.24.1/selenium-remote-driver-2.24.1.jar" sourcepath="M2_REPO/org/seleniumhq/selenium/selenium-remote-driver/2.24.1/selenium-remote-driver-2.24.1-sources.jar"/>
@@ -45,5 +45,4 @@
   <classpathentry kind="var" path="M2_REPO/org/beanshell/bsh/2.0b4/bsh-2.0b4.jar"/>
   <classpathentry kind="var" path="M2_REPO/com/beust/jcommander/1.12/jcommander-1.12.jar" sourcepath="M2_REPO/com/beust/jcommander/1.12/jcommander-1.12-sources.jar"/>
   <classpathentry kind="var" path="M2_REPO/org/yaml/snakeyaml/1.6/snakeyaml-1.6.jar" sourcepath="M2_REPO/org/yaml/snakeyaml/1.6/snakeyaml-1.6-sources.jar"/>
-  <classpathentry kind="var" path="M2_REPO/org/seleniumhq/selenium/selenium-server-standalone-2.24.1.jar"/>
 </classpath>
