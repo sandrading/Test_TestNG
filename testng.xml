@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Project A RestAPI automation suite"> 
+ <test name="Test1"> 
+ <classes> 
+ <class name="tests.test1" > 
+ <methods>
+   <include name="f" />
+  </methods>
+  </class>
+ </classes> 
+</test> 
+
+<test name="Test2"> 
+ <classes> 
+ <class name="tests.test2" > 
+ <methods>
+   <include name="f" />
+  </methods>
+  </class>
+ </classes> 
+</test> 
+
+<test name="Test3"> 
+ <classes> 
+ <class name="tests.test3" > 
+ <methods>
+   <include name="f" />
+  </methods>
+  </class>
+ </classes> 
+</test> 
+</suite>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Project A RestAPI automation suite" duration-ms="6037" started-at="2017-02-08T16:46:11Z" finished-at="2017-02-08T16:46:17Z">
+    <groups>
+    </groups>
+    <test name="Test1" duration-ms="2244" started-at="2017-02-08T16:46:11Z" finished-at="2017-02-08T16:46:14Z">
+      <class name="tests.test1">
+        <test-method status="PASS" signature="f()[pri:0, instance:tests.test1@6d00a15d]" name="f" duration-ms="2229" started-at="2017-02-08T16:46:11Z" finished-at="2017-02-08T16:46:14Z">
+        </test-method>
+      </class>
+    </test>
+    <test name="Test3" duration-ms="1812" started-at="2017-02-08T16:46:16Z" finished-at="2017-02-08T16:46:17Z">
+      <class name="tests.test3">
+        <test-method status="PASS" signature="f()[pri:0, instance:tests.test3@1593948d]" name="f" duration-ms="1812" started-at="2017-02-08T16:46:16Z" finished-at="2017-02-08T16:46:17Z">
+        </test-method>
+      </class>
+    </test>
+    <test name="Test2" duration-ms="1980" started-at="2017-02-08T16:46:14Z" finished-at="2017-02-08T16:46:16Z">
+      <class name="tests.test2">
+        <test-method status="PASS" signature="f()[pri:0, instance:tests.test2@675d3402]" name="f" duration-ms="1980" started-at="2017-02-08T16:46:14Z" finished-at="2017-02-08T16:46:16Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>
